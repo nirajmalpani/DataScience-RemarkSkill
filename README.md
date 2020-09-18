@@ -1,6 +1,4 @@
-# DataScience-RemarkSkill
-
-# Project 3: Unsupervised Learning
+# Final Project: Unsupervised Learning
 ## Creating Customer Segments
 
 ### Install
